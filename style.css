@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body, html{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+.box{
+    background-color:blue;
+    height: 100%;
+}
+.topo{
+    background-color: aquamarine;
+    height: 50px;
+    width: calc(100% - 200px);
+    float: right;
+}
+.menu{
+    background-color: yellow;
+    float: left;
+    height: 100%;
+    width: 200px;
+}
+.content{
+    background-color: green;
+    height: 50px;
+    width: calc(100% - 200px);
+    float: right;
+}

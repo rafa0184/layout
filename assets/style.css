@@ -15,7 +15,7 @@ body, html{
 }
 .topo{
     background-color: #70899C;
-    height: 50px;
+    height: 30px;
     width: calc(100% - 200px);
     float: right;
 }
@@ -24,7 +24,7 @@ body, html{
     color: white;
 }
 .topo span{
-  line-height: 50px;
+  line-height: 30px;
   color: white;
 }
 .topo .botao-sair{
@@ -75,7 +75,10 @@ body, html{
     width: calc(100% - 200px);
     float: right;
 }
-
+.titulo{
+  text-align: center;
+  color:#455a64;
+}
 
 /* define a fixed width for the entire menu */
 .navigation {

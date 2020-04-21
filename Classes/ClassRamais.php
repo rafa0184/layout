@@ -2,10 +2,10 @@
 
 
 //Constantes para configuração de banco de dados
-define('HOST',  'localhost');
-define('DB',    'grupozelo');
-define('USER',  'rafael');
-define('PASS',  'iTahk7ahni');
+define('HOST',  '');
+define('DB',    '');
+define('USER',  '');
+define('PASS',  '');
 
 class Ramais{
  
